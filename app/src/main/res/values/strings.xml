@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginApp</string>
+    <string name="email">ایمیل خودرا وارد کنید</string>
+    <string name="send_code">ارسال کد</string>
+    <string name="code">کد</string>
+    <string name="confirm">confirm</string>
+    <string name="rong_email">rong_email</string>
+    <string name="wrongemail">ایمیل اشتباه وارد شده است؟</string>
+</resources>
